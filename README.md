@@ -1,0 +1,2 @@
+# Satellite-Ground-Station-Using-Matlab
+My Ground Station is a fully managed service that managed us to control satellite communications, process data (packing &amp; unpacking), send commands, receive data from sensors, control motors speed (rpm). There are many software and programming languages that help us to design any ground station ex. LabVIEW, Mat-Lab, C#, …etc. We chose to design our ground station using Mat-Lab according to our previous knowledge about it. 
